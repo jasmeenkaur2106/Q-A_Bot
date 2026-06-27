@@ -29,12 +29,11 @@ A simple and fast Question & Answer chatbot built using **Python** and the **Gro
 ```text
 QnA-Bot/
 │
-├── main.py
-├── .env
+├── chatbot.py
+├── chatbot_memory.py
 ├── requirements.txt
 ├── README.md
-└── screenshots/
-    └── demo.png
+└── chatbot_stream.py
 ```
 
 ---
